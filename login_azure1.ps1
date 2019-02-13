@@ -1,2 +1,0 @@
-Login-AzAccount
-Get-AzureRmResourceGroup
