@@ -1,2 +1,3 @@
 Login-AzAccount
 Get-AzureRmResourceGroup
+Get-AzureRmStorageAccount
